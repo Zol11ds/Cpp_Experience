@@ -1,0 +1,10 @@
+F:\Programs\OOP_LabD\5\5_labd_MiksAre\5_labd_MiksAre\bin\Debug\5_labd_MiksAre.exe.config
+F:\Programs\OOP_LabD\5\5_labd_MiksAre\5_labd_MiksAre\bin\Debug\5_labd_MiksAre.exe
+F:\Programs\OOP_LabD\5\5_labd_MiksAre\5_labd_MiksAre\bin\Debug\5_labd_MiksAre.pdb
+F:\Programs\OOP_LabD\5\5_labd_MiksAre\5_labd_MiksAre\obj\Debug\5_labd_MiksAre.csprojAssemblyReference.cache
+F:\Programs\OOP_LabD\5\5_labd_MiksAre\5_labd_MiksAre\obj\Debug\_5_labd_MiksAre.Form1.resources
+F:\Programs\OOP_LabD\5\5_labd_MiksAre\5_labd_MiksAre\obj\Debug\_5_labd_MiksAre.Properties.Resources.resources
+F:\Programs\OOP_LabD\5\5_labd_MiksAre\5_labd_MiksAre\obj\Debug\5_labd_MiksAre.csproj.GenerateResource.cache
+F:\Programs\OOP_LabD\5\5_labd_MiksAre\5_labd_MiksAre\obj\Debug\5_labd_MiksAre.csproj.CoreCompileInputs.cache
+F:\Programs\OOP_LabD\5\5_labd_MiksAre\5_labd_MiksAre\obj\Debug\5_labd_MiksAre.exe
+F:\Programs\OOP_LabD\5\5_labd_MiksAre\5_labd_MiksAre\obj\Debug\5_labd_MiksAre.pdb
